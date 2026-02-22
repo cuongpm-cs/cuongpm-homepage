@@ -15,11 +15,11 @@ main:
   - title: "Publications (Google Scholar)"
     url: https://scholar.google.com/citations?user=Q02hZnQAAAAJ&hl=en
      
-  - title: "Teaching"
-    url: /teaching/    
+  # - title: "Teaching"
+  #   url: /teaching/    
   
-  - title: "Students"
-    url: /students/
+  # - title: "Students"
+  #   url: /students/
 
   - title: "CV"
-    url: /files/TienNM-CV-20251119.pdf
+    url: files/CV-Manh-Cuong-Phan.pdf
