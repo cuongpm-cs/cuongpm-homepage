@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "vi-VI"
-title                    : "Minh-Tien Nguyen"
+title                    : "Manh-Cuong Phan"
 title_separator          : "-"
-name                     : &name "Minh-Tien Nguyen"
+name                     : &name "Manh-Cuong Phan"
 description              : &description ""
-url                      : https://tiennutehy.github.io/tiennm-homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/cuongpm-cs/cuongpm-homepage/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tiennm/tiennm.github.io"
+repository               : "cuongpm-cs/cuongpm-cs.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Minh-Tien Nguyen, Associate Professor"
-  avatar           : "TienNM.png"
-  bio              : "Associate Professor, Computer Science & Engineering"
+  name             : "Manh-Cuong Phan, Engineeer Student"
+  avatar           : "cuongpm.jpg"
+  bio              : "Engineeer Student, Computer Science & Engineering"
   location         : "Hung Yen, Viet Nam"
   employer         : "Hung Yen University of <br>Technology and Eucation"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ASd5leYAAAAJ&hl=en"
-  email            : "tiennm@utehy.edu.vn"
+  googlescholar    : "https://scholar.google.com/citations?user=Q02hZnQAAAAJ&hl=en"
+  email            : "cuongpm@spkt.edu.vn"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tiennm"
+  github           : "cuongpm-cs"
   google_plus      :
   keybase          :
   instagram        :
